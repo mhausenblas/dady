@@ -1,6 +1,7 @@
 <?php
             
 include_once('../../arc/ARC2.php');
+include_once('lib/simplepie/simplepie.inc');
 
 
 /* ARC RDF store config */
@@ -13,12 +14,14 @@ $config = array(
 
 $store = ARC2::getStore($config);
 
+$feed = new SimplePie();
+	
 if (!$store->isSetUp()) {
   $store->setUp();
   echo 'set up';
 }
 
-if(isset($_GET['void'])){  // load chartr data from URI
+if(isset($_GET['void'])){  // load voiD data from URI
 	
 	$URI = $_GET['void'];
 
@@ -26,7 +29,14 @@ if(isset($_GET['void'])){  // load chartr data from URI
 		loadData($URI);
 	}
 	
-	echo discoverUpdate($URI); 
+	$notification = discoverUpdate($URI); // evaluate voiD to learn about supported notification mechanism
+	
+	if($notification["type"] == "http://purl.org/NET/dady#AtomUpdateSource") { 
+		echo "polling <a href='" . $notification["src"] . "'>" .  $notification["src"] . "</a> for changes:";
+		updateViaAtom($notification["src"]);
+	}
+	else echo "is not supported yet";
+	
 }
 
 
@@ -57,7 +67,7 @@ function loadData($URI){
 function discoverUpdate($URI){
 	global $store;
 	
-	$notification = "";
+	$ret = array();
 			
 	$cmd = "
 		PREFIX void: <http://rdfs.org/ns/void#> .
@@ -66,7 +76,7 @@ function discoverUpdate($URI){
 		SELECT ?dynaType ?updateSrcType ?notificationDoc FROM <$URI> WHERE {
 			?ds	a void:Dataset ; 
 				dady:dynamics ?dynamics .
-			?dyna	a ?dynaType ;				
+			?dyna	a ?dynaType ;
 					dady:update ?updatesrc .
 			?updatesrc	a ?updateSrcType ;
 						dady:notification ?notificationDoc .
@@ -77,19 +87,36 @@ function discoverUpdate($URI){
 		foreach ($rows as $row) {
 			$dynaType = $row['dynaType'];
 			$updateSrcType = $row['updateSrcType'];
-			$notificationDoc = $row['notificationDoc'];
+			$notificationSrcDoc = $row['notificationDoc'];
 			
 			if($dynaType == "http://purl.org/NET/dady#RegularUpdates") {
-				if($updateSrcType == "http://purl.org/NET/dady#AtomUpdateSource") { // an Atom feed
-					$notification = $notificationDoc;
-				}
+				$ret["src"] = $notificationSrcDoc;
+				$ret["type"] = $updateSrcType;
 			}
 		}
 	}
 		
-	return $notification;
+	return $ret;
 }
 
-
+function updateViaAtom($feedURI){
+	global $feed;
+	
+	$feed->set_feed_url($feedURI);
+	$feed->enable_cache(true);
+	$feed->set_cache_location('cache');
+	$feed->set_cache_duration(60);
+	$feed->init();
+	if ($feed->error()) {
+		echo $feed->error();
+	}
+	foreach ($feed->get_items() as $item) {
+		echo "<p>";
+		echo "title: " . $item->get_title() . "<br />\n";
+ 		echo "date: " . $item->get_date('Y-m-d@H:i:s') . "<br />\n"; 
+		echo "type: " .  $item->get_link(0, "data-add") . "<br />\n";
+		echo "</p>";		
+	}
+}
 
 ?>
