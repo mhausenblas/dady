@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix dady: <http://purl.org/NET/dady#> .
+
+###########
+### classes
+
+dady:UpdateDynamics	a	rdfs:Class ; 
+ 					rdfs:label "update dynamics" .
+
+
+dady:UpdateRegularity	rdfs:subClassOf dady:UpdateDynamics ;
+						rdfs:label "update regularity" .
+
+dady:IrregularUpdates	rdfs:subClassOf dady:UpdateRegularity ;
+						rdfs:label "irregular updates" ;
+						rdfs:comment "the dataset is updated in irregular, non-predictable time intervals" .
+
+dady:RegularUpdates		rdfs:subClassOf dady:UpdateRegularity ;
+						rdfs:label "regular updates" ;
+						rdfs:comment "the dataset is updated in regular time intervals" .
+
+
+dady:UpdateFrequency	rdfs:subClassOf dady:UpdateDynamics ;
+						rdfs:label "update frequency" .
+
+dady:NoUpdates			rdfs:subClassOf dady:UpdateFrequency ;
+						rdfs:label "no updates" ;
+						rdfs:comment "the dataset is never updated" .
+																	
+dady:LowFrequentUpdates	rdfs:subClassOf dady:UpdateFrequency ;
+						rdfs:label "low-frequent updates" ;
+						rdfs:comment "the dataset is updated low-frequently, i.e., once a year or less frequent" .
+
+dady:MidFrequentUpdates	rdfs:subClassOf dady:UpdateFrequency ;
+						rdfs:label "mid-frequent updates" ;
+						rdfs:comment "the dataset is updated mid-frequently, i.e., from once a week to a couple of months" .
+
+dady:HighFrequentUpdates	rdfs:subClassOf dady:UpdateFrequency ;
+							rdfs:label "high-frequent updates" ;
+							rdfs:comment "the dataset is updated high-frequently, i.e., once a day or more frequent" .
+
+						
+dady:UpdateSource	a	rdfs:Class ; 
+ 					rdfs:label "update source" .
+
+dady:AtomUpdateSource	rdfs:subClassOf dady:UpdateSource ;
+						rdfs:label "an update source offering updates as Atom feeds" ;
+						rdfs:isDefinedBy <http://tools.ietf.org/html/rfc4287> .
+
+dady:ChangeSetUpdateSource	rdfs:subClassOf dady:UpdateSource ;	
+							rdfs:label "an update source offering updates as Talis' Changesets" ;
+							rdfs:isDefinedBy <http://purl.org/vocab/changeset/> .
+
+dady:TriplifyUpdateSource	rdfs:subClassOf dady:UpdateSource ;
+							rdfs:label "an update source offering updates as Triplify's Updates" ;
+							rdfs:isDefinedBy <http://triplify.org/vocabulary/update> .
+
+
+##############
+### properties
+						
+dady:dynamics	a rdf:Property ; 
+				rdfs:label "has dynamics" ;
+				rdfs:domain void:Dataset ; 
+				rdfs:range dady:UpdateDynamics .
+				
+dady:update	a rdf:Property ; 
+			rdfs:label "has update source" ;
+			rdfs:domain dady:Dynamics ;
+			rdfs:range dady:UpdateSource .
