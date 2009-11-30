@@ -1,0 +1,113 @@
+body {
+	font-family: Verdana;
+	font-size: 14px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+	background: #fafafa;
+}
+
+a:link {text-decoration: none; color: #3c3c9c;}
+a:visited {text-decoration: none; color: #3c3c9c;}
+a:active {text-decoration: none; color: #3c3c9c;}
+a:hover {text-decoration: underline; color: #9c3c3c;}
+
+h1 {
+	font-size: 24px;
+	font-weight: normal;
+	font-family: Consolas;
+	padding: 5px;
+	margin-top: 2px;
+	margin-bottom: 0px;
+}
+
+h2 {
+	font-size: 16px;
+	color: #06F;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+
+h3 {
+	font-size: 14px;
+	color: #666;
+}
+
+
+form {
+	padding: 10px;
+}
+
+input, select, textarea {
+	margin: 5px;
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+img {
+	border: 1px solid white;
+}
+
+legend {
+	font-weight: bold;	
+	font-size: 110%;
+}
+
+label {
+	font-weight: bold;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+label.required {
+	color: red;
+	font-weight: bold;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+.note {
+	color: #909099;
+	margin-top: 0px;
+	margin-left: 0px;
+	font-size: 12px;
+	font-style: italic;
+}
+
+#in  {
+	padding: 10px;
+	margin: 5px;
+	border: 1px solid #e0e0e0;
+	background: #ffffff;
+}
+
+
+#control {
+	clear: left;
+	width: 100%;
+}
+
+
+#head { 
+	background: #aa9;
+	border: 1px solid #ffffff;
+	padding: 0px;
+	color: #fafafa;
+}
+
+#head p {
+	font-style: italic;
+	font-size: 12px;
+	color: #fff;
+	margin-top: 2px;
+	margin-bottom: 0px;
+	padding: 5px;
+	text-align: right;
+}
+
+#main {
+	margin-top: 1px;
+	padding: 10px; 
+}

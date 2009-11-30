@@ -35,7 +35,7 @@ if(isset($_GET['void'])){  // load voiD data from URI
 		echo "polling <a href='" . $notification["src"] . "'>" .  $notification["src"] . "</a> for changes:";
 		updateViaAtom($notification["src"]);
 	}
-	else echo "is not supported yet";
+	else echo $notification["type"] . "is not supported yet";
 	
 }
 
@@ -114,7 +114,8 @@ function updateViaAtom($feedURI){
 		echo "<p>";
 		echo "title: " . $item->get_title() . "<br />\n";
  		echo "date: " . $item->get_date('Y-m-d@H:i:s') . "<br />\n"; 
-		echo "type: " .  $item->get_link(0, "data-add") . "<br />\n";
+		echo "added: " .  $item->get_link(0, "data-added") . "<br />\n";
+		echo "removed: " .  $item->get_link(0, "data-removed") . "<br />\n";
 		echo "</p>";		
 	}
 }
