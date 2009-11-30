@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>example dataset changes</title>
-  <link href="http://ds.example.org"/>
-  <updated>2009-11-28T20:41:00Z</updated>
+  <title>LDC09 demo dataset changes</title>
+  <link href="http://localhost:8888/dady-demo/publisher/"/>
+  <updated>2009-11-30T14:10:00Z</updated>
   <author>
     <name>Michael Hausenblas</name>
   </author>
   <id>12345</id>
 
   <entry>
+    <title>change 123456780</title>
+    <link href="http://localhost:8888/dady-demo/publisher/change123456780" rel="data-added" />
+    <id>123456780</id>
+    <updated>2009-11-30T14:10:00Z</updated>
+    <summary>added some new resources and removed some old ones</summary>
+  </entry>
+
+  <entry>
+    <title>change 1234567891</title>
+    <link href="http://localhost:8888/dady-demo/publisher/change1234567891" rel="data-removed" />
+    <id>1234567891</id>
+    <updated>2009-11-30T17:35:00Z</updated>
+    <summary>removed some data</summary>
+  </entry>
+
+  <entry>
     <title>change 123456789</title>
-    <link href="http://ds.example.org/diff/123456789" rel="data-change" />
+    <link href="http://localhost:8888/dady-demo/publisher/change123456789" rel="data-added" />
     <id>123456789</id>
-    <updated>2009-11-28T20:41:00Z</updated>
-    <summary>added some new resources and removed some old spotted </summary>
+    <updated>2009-11-30T17:37:00Z</updated>
+    <summary>added some new resources and removed some old ones</summary>
   </entry>
 
 </feed>
