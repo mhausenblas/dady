@@ -7,12 +7,12 @@
 @prefix : <#> .
 
 :ds	rdf:type void:Dataset ;
-	foaf:homepage <http://example.org/ds/> ;
+	foaf:homepage <http://ld2sd.deri.org/dady/publisher/> ;
 	dady:dynamics [
-		rdf:type dady:RegularUpdates ;
+		rdf:type dady:IrregularUpdates ;
 		rdf:type dady:LowFrequentUpdates ;
 		dady:update [
 			rdf:type dady:AtomUpdateSource ;
-			dady:notification <http://example.org/updates.atom> ;
+			dady:notification <http://140.203.155.46/dcm/register?dataset=http://umbrich.net/test.rdf&update=5> ;
 		] ;
 	] .

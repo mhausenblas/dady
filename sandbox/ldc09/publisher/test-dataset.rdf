@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Cooke_%28footballer%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/M6_motorway_%28Ireland%29">
+		<dbpprop:end xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Nora_Jane_Noone">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Donnellan_%28Gaelic_footballer%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Joyces_365">
+		<n0pred:location xmlns:n0pred="http://dbpedia.org/ontology/Organisation/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="pl">Galway – miasto w zachodniej Irlandii, stolica hrabstwa Galway. Liczy 72 tys. mieszkańców i jest to najszybciej rozwijające się miasto Irlandii. W 2006 roku w mieście mieszkało około 4000 Polaków. Jest to jedyne miasto regionu Connacht mające status city. Galway wzięło swą nazwę od rzeki Gaillimh będącej zachodnią granicą pierwszych zabudowań zwanych Dún Bhun na Gaillimhe (fort u ujścia Gaillimh). Samo słowo Gaillimh znaczy ‛kamienny'.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_Davis_%28Australian_politician%29">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="ja">ゴールウェイ</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/NUI%2C_Galway_Students%27_Union">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<skos:subject xmlns:skos="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://dbpedia.org/resource/Category:County_towns_in_the_Republic_of_Ireland"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Francie_Barrett">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:wordnet_type xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Scoil_Chaitriona">
+		<n0pred:location xmlns:n0pred="http://dbpedia.org/ontology/Organisation/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Tony_%C3%93g_Regan">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:wikiPageUsesTemplate xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Template:historical_populations"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/D%C3%A1ith%C3%AD_%C3%93_S%C3%A9">
+		<dbpedia-owl:residence xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Keane_%28soccer_player%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Salmon">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Finian_Hanley">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Sinnott_%28footballer%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:gaeilge xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">Gaillimh</dbpprop:gaeilge>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Declan_Qualter">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdf:type rdf:resource="http://dbpedia.org/class/yago/PortCitiesAndTownsInTheRepublicOfIreland"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Clancy">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Connaught_Rangers">
+		<dbpprop:garrison xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Vinny_Faherty">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Finian_Hanley">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Hession">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="pt">Galway é uma cidade da Irlanda e é capital do condado de mesmo nome. É a quarta maior cidade do país e a maior da província de Connacht. Conta com uma população de 65.832 habitantes. Desde 1985 a cidade possui estatuto de condado administrativo (county-boroughs).</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/KBC_Bank_Ireland">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Mahon">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="ja">ゴールウェイ (Galway、アイルランド語：Gaillimh）は、アイルランド共和国西部の都市であり、ゴールウェイ州の州都である。ゴールウェイ湾の北東の一角に位置し、市内をコリヴ川が流れる。 市の名前の最も確かな由来は、アイルランドのガリヴ、「外国人の町」である。ゴールウェイはアングロ・ノルマン期に支配した14の部族の都市として知られている。</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Lee_%28footballer%29">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdf:type rdf:resource="http://dbpedia.org/ontology/Municipality"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Stockwell">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Cian_McBrien_%28footballer%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Keane">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Maher_%28boxer%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<foaf:homepage xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://www.galwaycity.ie"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Burke_%28North_Carolina%29">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Martin_O%27Doherty">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Paul_King_%28musician%2C_VJ%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Se%C3%A1n_Purcell">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="it">Galway (in irlandese Gaillimh o, usato recentemente, Cathair na Gaillimhe) è il capoluogo dell'omonima contea nella Repubblica d'Irlanda. È una delle città più grandi della nazione, oltre che l'unica del Connacht, ed è situata nella parte nord-orientale dell'omonima baia, nell'Irlanda occidentale di cui è considerata da molti la capitale culturale. È attraversata dal fiume Corrib, piccolissimo ma potente fiume che parte dall'invece vasto Lough Corrib, situato poco più a nord, e che dà il nome gaelico alla città. La popolazione è di 72.729 abitanti.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Martin_O%27Doherty">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://mpii.de/yago/resource/Galway">
+		<owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/UN/LOCODE:IEGWY">
+		<dbpprop:redirect xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Gareth_Bradshaw">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Ciar%C3%A1n_Cannon">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Finian_Hanley">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Michael_John_Flaherty">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Peter_McDonagh">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Se%C3%A1n_%C3%93_Neachtain">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Kerins">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<skos:subject xmlns:skos="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://dbpedia.org/resource/Category:Port_cities_and_towns_in_the_Republic_of_Ireland"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Fintan_Coogan%2C_Jnr">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Scoil_Chaitriona">
+		<dbpedia-owl:location xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<n0pred:populationTotal xmlns:n0pred="http://dbpedia.org/ontology/PopulatedPlace/" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72729</n0pred:populationTotal>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="it">Galway (città)</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="ja">ゴールウェイ (Galway、アイルランド語：Gaillimh）は、アイルランド共和国西部の都市であり、ゴールウェイ州の州都である。ゴールウェイ湾の北東の一角に位置し、市内をコリヴ川が流れる。 市の名前の最も確かな由来は、アイルランドのガリヴ、「外国人の町」である。ゴールウェイはアングロ・ノルマン期に支配した14の部族の都市として知られている。</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Vinny_Faherty">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_City">
+		<dbpprop:redirect xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">Galway is the fastest growing and is the fourth largest city in the Republic of Ireland and the only city in the province of Connacht in Ireland. The city is located on the west coast of Ireland. In Irish, Galway is also called Cathair na Gaillimhe (City of Galway). The city takes its name from the Gaillimh river that formed the western boundary of the earliest settlement, which was called Dún Bhun na Gaillimhe (meaning "fort at the foot of the Gaillimh"). The word Gaillimh means "stony" as in "stony river" (the mythical and alternative derivations are given in History of Galway). The city also bears the nickname City of the Tribes / Cathair na dTreabh because "fourteen tribes" (merchant families) led the city in its Hiberno-Norman period. The term tribes was often a derogatory phrase in Cromwellian times. The merchants would have seen themselves as English gentry, and hence were loyal to the King. Their uncertain reaction to the siege of Galway by Cromwellian forces earned them this label, which they subsequently adopted in defiance. The population of Galway city, given in the 2006 census, is 72,414.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#" rdf:resource="http://rdf.freebase.com/ns/guid.9202a8c04000641f800000000009fffe"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Proinsias_Mac_Aonghusa">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Leydon">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Marquis_de_St_Ruth">
+		<dbpedia-owl:placeOfBurial xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Tommy_Joe_Gilmore">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="ru">Го́луэй — город на западе в Ирландии, административный центр одноимённого графства, порт на берегу залива Голуэй, в устье реки Корриб. Население 72,0 тыс. жит. (2006). Вывоз сельскохозяйственной продукции. Промышленность ориентирована на нужды сельского хозяйства (производство шорных и железо-скобяных изделий, а также удобрений). Имеются предприятия лёгкой промышленности (трикотажные и шляпные), производится мебель. В городе проводятся сельскохозяйственные ярмарки. Возникший в XIII веке, Голуэй получил статус города в 1484. На протяжении столетий был центром активной торговли с Францией и Испанией. В городе находится отделение Ирландского национального университета. Достопримечательности: церковь св. Николая, посещённая в 1477 Христофором Колумбом, замок Линх, Испанская арка. Городской музей; Центр Ирландского хрусталя. Во второй половине июля в Голуэе проводится самый известный в Ирландии музыкальный фестиваль. Проводятся также фестивали театрального искусства и поэзии, а также устриц (особенно популярен последний). Проходят известные Голуэйские скачки. Ежегодно Голуэй притягивает большое число туристов. В пригороде Кладда первоначально изготовили знаменитое Кольцо Кладда.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Hawkins">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="nl">Galway (stad)</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:county xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/County_Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:motto xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">''Laudatio Ejus Manet In Secula Seculorum''&lt;br&gt;"His Praise Remains unto Ages of Ages"</dbpprop:motto>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="nl">Galway is een stad aan de westkust van Ierland, en de hoofdstad van het graafschap Galway. De meest waarschijnlijke verklaring voor de naam van de stad is dat deze genoemd is naar de rivier de Corrib die door de stad stroomt. In het Iers is de naam voor de rivier 'Gaillimh', wat 'stenig' betekent. Galway is met meer dan 66.000 inwoners naar Ierse begrippen een grote stad.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:state xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">collapsed</dbpprop:state>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="cs">Galway je město v západoirské provincii Connacht a správní středisko stejnojmenného hrabství. Město se rozkládá na západním pobřeží Irska. V irštině je označováno také jako Cathair na Gaillimhe („Město Galway“).</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Celtrak">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Doherty_%28Gaelic_footballer%29">
+		<dbpprop:counties xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/David_Collins_%28hurler%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Clancy">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="no">Galway (City of Galway, Gailimh) er administrasjonsbyen i Galway i Republikken Irland. Den er også utskilt fra grevskapet som et selvstyrt grevskapsdistrikt. Byen er kjent som «stammenes by», fordi den i sin tidligste historie ble bygget opp av fjorten keltiske stammer eller klaner: Athy, Blake, Bodkin, Browne, Darcy, Deane, Font, French, Joyce, Kirwin, Lynch, Martyn, Morris og Skerrett.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="sv">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Sinnott_%28footballer%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Keane">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Declan_Qualter">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_Sealy_Townsend">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/William_King_%28Royal_Navy_officer%29">
+		<n0pred:occupation xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/David_Forde_%28soccer%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Mahon">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_O%27Donnell_%28Irish_footballer%29">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="de">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Niall_Corcoran">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/National_University_of_Ireland%2C_Galway">
+		<dbpprop:city xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Aoife_Mulholland">
+		<dbpprop:born xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="pl">Galway – miasto w zachodniej Irlandii, stolica hrabstwa Galway. Liczy 72 tys. mieszkańców i jest to najszybciej rozwijające się miasto Irlandii. W 2006 roku w mieście mieszkało około 4000 Polaków. Jest to jedyne miasto regionu Connacht mające status city. Galway wzięło swą nazwę od rzeki Gaillimh będącej zachodnią granicą pierwszych zabudowań zwanych Dún Bhun na Gaillimhe (fort u ujścia Gaillimh). Samo słowo Gaillimh znaczy ‛kamienny'. Potocznie miasto nazywane było również Cathair na dTreabh czyli ‛miasto klanów', gdyż w czasach normańskich rządzone było 14 klanów kupieckich.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Mahon">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_O%27Donohoe">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:censusYr xmlns:dbpprop="http://dbpedia.org/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</dbpprop:censusYr>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/David_Collins_%28hurler%29">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="de">Galway ist die Hauptstadt der Grafschaft Galway in der Provinz Connacht in der Republik Irland.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="tr">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_Davis_%28Australian_politician%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Toasted_Heretic">
+		<dbpprop:origin xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Ger_Hanley_%28footballer%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Kitt">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_O%27Donohoe">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Ciar%C3%A1n_Cannon">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_O%27Donohoe">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jason_Molloy">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Francie_Barrett">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="ca">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="es">Galway es la capital del condado de Galway, en Irlanda. La ciudad se encuentra en la costa oeste de la isla, en el rincón noroccidental de la bahía de Galway . El río Corrib atraviesa la ciudad. Juvenil y dinámica, es una de las ciudades con más crecimiento económico de la Unión Europea y resulta difícil precisar su número de habitantes (según censo de 2001 la ciudad tenía unos 66.000 habitantes), pues aumenta constantemente con la llegada de estudiantes a cualquiera de sus dos universidades, la National University of Ireland, Galway y la MGIT, así como de trabajadores extranjeros, en gran parte españoles.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Padraig_O%27Laoi">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:float xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">left</dbpprop:float>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Smyths">
+		<n0pred:location xmlns:n0pred="http://dbpedia.org/ontology/Organisation/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Michael_John_Flaherty">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="ru">Го́луэй — город на западе в Ирландии, административный центр одноимённого графства, порт на берегу залива Голуэй, в устье реки Корриб. Население 72,0 тыс. жит. (2006). Вывоз сельскохозяйственной продукции.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="zh">戈尔韦</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Nex_Aviation">
+		<dbpedia-owl:headquarter xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Se%C3%A1n_Purcell">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Mattie_McDonagh">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_Sportsgrounds">
+		<dbpedia-owl:location xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jarlath_Fallon">
+		<dbpprop:counties xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="en">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Se%C3%A1n_%C3%93_Neachtain">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_United_F.C.">
+		<n0pred:ground xmlns:n0pred="http://dbpedia.org/ontology/SoccerClub/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Knockdoe">
+		<dbpprop:place xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Celtrak">
+		<n0pred:location xmlns:n0pred="http://dbpedia.org/ontology/Organisation/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/St_Ignatius_College_%28Galway%29">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Ciara_Newell">
+		<dbpedia-owl:homeTown xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Ciara_Newell">
+		<n0pred:homeTown xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Joseph_Carr">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/The_Bish">
+		<n0pred:location xmlns:n0pred="http://dbpedia.org/ontology/Organisation/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Tommy_Joe_Gilmore">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpedia-owl:populationTotal xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72729</dbpedia-owl:populationTotal>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Joyces_365">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/FAI_Cup_2008/footballbox2">
+		<dbpprop:stadium xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_Russell_%28footballer%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Donnellan_%28Gaelic_footballer%29">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Dublin_Community_Television">
+		<dbpprop:broadcastArea xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="nl">Galway is een stad aan de westkust van Ierland, en de hoofdstad van het graafschap Galway. De meest waarschijnlijke verklaring voor de naam van de stad is dat deze genoemd is naar de rivier de Corrib die door de stad stroomt. In het Iers is de naam voor de rivier 'Gaillimh', wat 'stenig' betekent. Galway is met meer dan 66.000 inwoners naar Ierse begrippen een grote stad.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Aoife_Mulholland">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:hasPhotoCollection xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Connacht_Rugby">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="ca">Galway és una ciutat d'Irlanda, capital del Comtat de Galway, a la regió de Connacht.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Room_Notes">
+		<dbpedia-owl:homeTown xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Room_Notes">
+		<n0pred:homeTown xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/St_Mary%27s_College%2C_Galway">
+		<dbpedia-owl:location xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Doherty_%28Gaelic_footballer%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="en">Galway is the fastest growing and is the fourth largest city in the Republic of Ireland and the only city in the province of Connacht in Ireland. The city is located on the west coast of Ireland. In Irish, Galway is also called Cathair na Gaillimhe (City of Galway). The city takes its name from the Gaillimh river that formed the western boundary of the earliest settlement, which was called Dún Bhun na Gaillimhe (meaning "fort at the foot of the Gaillimh").</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="hu">Galway város Írországban, Connacht tartományban, Galway megye közigazgatási központja.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Peter_McDonagh">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<foaf:page xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://en.wikipedia.org/wiki/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Nora_Jane_Noone">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Se%C3%A1nie_Duggan">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="fi">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Superjimenez">
+		<n0pred:homeTown xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Cian_McBrien_%28footballer%29">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Francie_Barrett">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Hawkins">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Marquis_de_St_Ruth">
+		<dbpprop:placeOfBurial xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:euConstituency xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/North-West_%28European_Parliament_constituency%29"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Ger_Hanley_%28footballer%29">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jarlath_Fallon">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/4fm">
+		<dbpprop:area xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/S%C3%A9amus_Brennan">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="zh">戈尔韦（愛爾蘭蓋爾語：Gaillimh ，英文：Galway），爱尔兰共和国西部大西洋畔的城市，也是戈尔韦郡的郡治所在。</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Superjimenez">
+		<dbpedia-owl:homeTown xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_Davis_%28Australian_politician%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Smyths">
+		<dbpedia-owl:location xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_Sportsgrounds">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_Sealy_Townsend">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Sin_Newspaper">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://upload.wikimedia.org/wikipedia/commons/4/49/Galway_crest.png"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Gareth_Bradshaw">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Se%C3%A1n_%C3%93_Neachtain">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/D%C3%A1ith%C3%AD_%C3%93_S%C3%A9">
+		<n0pred:residence xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="ru">Голуэй</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Peter_McDonagh">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/David_Forde_%28soccer%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="fr">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<geo:long xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-9.041799545288086</geo:long>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="ca">Galway és una ciutat d'Irlanda, capital del Comtat de Galway, a la regió de Connacht.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:northCoord xmlns:dbpprop="http://dbpedia.org/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.2729</dbpprop:northCoord>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:population xmlns:dbpprop="http://dbpedia.org/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72729</dbpprop:population>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="fr">Galway est une ville de la province de Connacht, dans le Comté de Galway, sur la côte ouest de l’Irlande. Son nom vient de la rivière Corrib (Gaillimh) qui traverse la ville. Elle est également surnommée la "ville des tribus" en référence aux quatorze tribus qui se partageaient la ville à l'époque anglo-normande. La population de la ville est de 71 983 habitants . L'agglomération de Galway est la troisième du pays par le nombre d'habitants, après celles de Dublin et de Cork.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Ciara_Newell">
+		<dbpprop:origin xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Gaillimh">
+		<dbpprop:redirect xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/William_King_%28Royal_Navy_officer%29">
+		<dbpedia-owl:occupation xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_%28city%29">
+		<dbpprop:redirect xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:westCoord xmlns:dbpprop="http://dbpedia.org/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.0418</dbpprop:westCoord>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Liam_Sammon">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_Airport">
+		<dbpprop:cityServed xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Itzacon_Eire">
+		<dbpedia-owl:location xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:wikiPageUsesTemplate xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Template:dwt"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_O%27Shaughnessy">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="es">Galway es la capital del condado de Galway, en Irlanda. La ciudad se encuentra en la costa oeste de la isla, en el rincón noroccidental de la bahía de Galway . El río Corrib atraviesa la ciudad.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Itzacon_Eire">
+		<n0pred:location xmlns:n0pred="http://dbpedia.org/ontology/Event/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="sv">Galway är en stad i provinsen Connacht på Irlands västkust och huvudstad i grevskapet Galway. Staden har 72.729 invånare. Det är även Irlands snabbast växande stad. En känd fotbollsklubb från Galway är Galway United.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/FAI_Cup_2008/footballbox9">
+		<dbpprop:stadium xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Paul_King_%28musician%2C_VJ%29">
+		<dbpprop:born xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Fintan_Coogan%2C_Jnr">
+		<dbpprop:shortDescription xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_O%27Donnell_%28Irish_footballer%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jason_Molloy">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Joyces_365">
+		<dbpedia-owl:location xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/League_of_Ireland_Cup_2008/footballbox1">
+		<dbpprop:stadium xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:stdcode xmlns:dbpprop="http://dbpedia.org/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</dbpprop:stdcode>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Tommy_Joe_Gilmore">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Riordan_%28rugby_player%29">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="fr">Galway est une ville de la province de Connacht, dans le Comté de Galway, sur la côte ouest de l’Irlande. Son nom vient de la rivière Corrib (Gaillimh) qui traverse la ville. Elle est également surnommée la "ville des tribus" en référence aux quatorze tribus qui se partageaient la ville à l'époque anglo-normande. La population de la ville est de 71 983 habitants . L'agglomération de Galway est la troisième du pays par le nombre d'habitants, après celles de Dublin et de Cork. C'est une ville étudiante très touristique en été, célèbre pour ses festivals.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Liam_Sammon">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Queen%27s_University_of_Ireland">
+		<dbpprop:city xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_GAA">
+		<dbpprop:grounds xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Annaghdown">
+		<dbpprop:countyTown xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="fi">Galway, iiriksi Gaillimh, on samannimisen kreivikunnan pääkaupunki Irlannin länsirannikolla. Kaupungissa asuu noin 73 000 asukasta, mutta se on nopeasti laajenemassa. Kaupungissa on yliopisto, tai oikeammin yksi Irlannin kansallisen yliopiston haaraosastoista. Sen länsipuolella sijaitsevat Connemaran iirinkieliset alueet. Galway sijaitsee Corrib-joen suulla, Galwaynlahden pohjukassa.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/De_Dannan">
+		<dbpedia-owl:homeTown xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="cs">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpedia-owl:thumbnail xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Galway_crest.png/200px-Galway_crest.png"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="es">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:irishGrid xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">M300256</dbpprop:irishGrid>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Doherty_%28Gaelic_footballer%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/De_Dannan">
+		<n0pred:homeTown xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_Bay_FM">
+		<dbpedia-owl:area xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_railway_station">
+		<dbpprop:locale xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_%28disambiguation%29">
+		<dbpprop:disambiguates xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jarlath_Fallon">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Kerins">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<skos:subject xmlns:skos="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://dbpedia.org/resource/Category:University_towns"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_Sealy_Townsend">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_Bay_FM">
+		<n0pred:area xmlns:n0pred="http://dbpedia.org/ontology/RadioStation/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Keane_%28soccer_player%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/National_University_of_Ireland%2C_Galway">
+		<dbpedia-owl:city xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:wikiPageUsesTemplate xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Template:about"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/S%C3%A9amus_Brennan">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:aboutProperty xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">other uses of the name</dbpprop:aboutProperty>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Se%C3%A1n_Purcell">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="zh">戈尔韦（愛爾蘭蓋爾語：Gaillimh ，英文：Galway），爱尔兰共和国西部大西洋畔的城市，也是戈尔韦郡的郡治所在。</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Superjimenez">
+		<dbpprop:origin xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/National_University_of_Ireland%2C_Galway">
+		<n0pred:city xmlns:n0pred="http://dbpedia.org/ontology/EducationalInstitution/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway%2C_Republic_of_Ireland">
+		<dbpprop:redirect xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdf:type rdf:resource="http://dbpedia.org/class/yago/CitiesInTheRepublicOfIreland"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Gareth_Bradshaw">
+		<dbpprop:counties xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Gareth_Bradshaw">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/City_Channel">
+		<dbpprop:available xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:aboutProperty xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">Galway (disambiguation)</dbpprop:aboutProperty>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Nex_Aviation">
+		<n0pred:headquarter xmlns:n0pred="http://dbpedia.org/ontology/Airline/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/St_Mary%27s_College%2C_Galway">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Clancy">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:web xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">www.galwaycity.ie</dbpprop:web>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<n0pred:areaTotal xmlns:n0pred="http://dbpedia.org/ontology/Place/" rdf:datatype="http://dbpedia.org/ontology/squareKilometre">6148</n0pred:areaTotal>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:townPop xmlns:dbpprop="http://dbpedia.org/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72414</dbpprop:townPop>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Declan_Qualter">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jape_%28band%29">
+		<dbpprop:imgCapt xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_city">
+		<dbpprop:redirect xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdf:type rdf:resource="http://dbpedia.org/class/yago/UniversityTowns"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:dailconstituency xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway_West_%28D%C3%A1il_%C3%89ireann_constituency%29"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Liam_Sammon">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/4fm">
+		<dbpedia-owl:area xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/4fm">
+		<n0pred:area xmlns:n0pred="http://dbpedia.org/ontology/RadioStation/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:iepostcode xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">G</dbpprop:iepostcode>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:wikiPageUsesTemplate xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Template:infobox_irish_place"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_United_F.C.">
+		<dbpprop:ground xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_Russell_%28footballer%29">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Paul_King_%28musician%2C_VJ%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Keane">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Marquis_de_St_Ruth">
+		<n0pred:placeOfBurial xmlns:n0pred="http://dbpedia.org/ontology/Monarch/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/David_Collins_%28hurler%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:name xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">Galway</dbpprop:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Flirt_FM">
+		<dbpprop:area xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="it">Galway (in irlandese Gaillimh o, usato recentemente, Cathair na Gaillimhe) è il capoluogo dell'omonima contea nella Repubblica d'Irlanda. È una delle città più grandi della nazione, oltre che l'unica del Connacht, ed è situata nella parte nord-orientale dell'omonima baia, nell'Irlanda occidentale di cui è considerata da molti la capitale culturale.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="de">Galway ist die Hauptstadt der Grafschaft Galway in der Provinz Connacht in der Republik Irland.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="tr">Galway İrlanda'nın Connacht ilinin başlıca kenti ve Galway ilçesinin merkezidir. Şehir İrlanda'nın batı kıyısında bulunmaktadır. İrlanda dilinde şehir Cathair na Gaillimhe ("Galway şehri") diye de anılmaktadır. Şehir adını Dún Bhun na Gaillimhe adı verilen ilk yerleşim bölgesinin batı sınırını oluşturan Gaillimh ırmağından ya da ırmağın ağzındaki kaleden almıştır. Gaillimh kelimesi "taşlık yer" anlamına gelir. Şehre verilen takma ad ise Kabileler Şehri'dir (The City of the Tribes). Çünkü Normanların İrlanda'da hüküm sürdüğü dönemde şehir 14 tüccar aile (ya da Cromwell zamanında küçük düşürücü anlamda kullanıldığı üzere "kabile") tarafından kurulmuştur. Bu tüccar aileler kendilerini İngiliz soylularından saydıkları için Büyük Britanya Kralı'na sadıktılar. Şehir nüfusu Nisan 2006 sayımına göre 71.983'tür. Bu nüfus ile İrlanda Cumhuriyeti'nin üçüncü büyük şehridir.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Leeds_United_A.F.C._season_2008%E2%80%9309/footballbox_collapsible2">
+		<dbpprop:stadium xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="hu">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_Sportsgrounds">
+		<n0pred:location xmlns:n0pred="http://dbpedia.org/ontology/Place/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Cooke_%28footballer%29">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpedia-owl:areaTotal xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:datatype="http://dbpedia.org/ontology/squareKilometre">6148</dbpedia-owl:areaTotal>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Salmon">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Connacht_GAA">
+		<dbpprop:grounds xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Hawkins">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<skos:subject xmlns:skos="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://dbpedia.org/resource/Category:Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Brian_O%27Donoghue">
+		<dbpprop:county xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<georss:point xmlns:georss="http://www.georss.org/georss/">53.2729 -9.0418</georss:point>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/All-Ireland_Senior_Hurling_Championship_1922">
+		<dbpprop:stadium xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Leydon">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Padraig_O%27Laoi">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_O%27Shaughnessy">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Fahey">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_O%27Shaughnessy">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Kitt">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Tony_%C3%93g_Regan">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Fahey">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Itzacon_Eire">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Toasted_Heretic">
+		<dbpedia-owl:homeTown xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Room_Notes">
+		<dbpprop:origin xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Toasted_Heretic">
+		<n0pred:homeTown xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Brian_O%27Donoghue">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Se%C3%A1nie_Duggan">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_O%27Donnell_%28Irish_footballer%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Nex_Aviation">
+		<dbpprop:headquarters xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:ruralPop xmlns:dbpprop="http://dbpedia.org/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">315</dbpprop:ruralPop>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Kerins">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Nora_Jane_Noone">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="sv">Galway är en stad i provinsen Connacht på Irlands västkust och huvudstad i grevskapet Galway. Staden har 72.729 invånare. Det är även Irlands snabbast växande stad. En känd fotbollsklubb från Galway är Galway United.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:area xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">6,148 km²</dbpprop:area>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/S%C3%A9amus_Brennan">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_Bay_FM">
+		<dbpprop:area xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="pl">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="fi">Galway, iiriksi Gaillimh, on samannimisen kreivikunnan pääkaupunki Irlannin länsirannikolla. Kaupungissa asuu noin 73 000 asukasta, mutta se on nopeasti laajenemassa. Kaupungissa on yliopisto, tai oikeammin yksi Irlannin kansallisen yliopiston haaraosastoista. Sen länsipuolella sijaitsevat Connemaran iirinkieliset alueet. Galway sijaitsee Corrib-joen suulla, Galwaynlahden pohjukassa. Joen itärannalle perusti normannilaislähtöinen aatelismies Risteard de Búrca 1200-luvulla linnoituksen suojaksi ó Flaitheartan (Flaherty) klaanilta, jonka miehet katsoivat olevansa näiden seutujen oikeita omistajia. Kaupungin nimi tuleekin iirin sanasta Gall, joka tarkoittaa vierasta valloittajaa – historian eri vaiheissa se on voinut viitata niin normandianranskalaiseen, englantilaiseen kuin viikinkiin. 1300-luvun lopussa kaupunki siirtyi 14 lähinnä englantilaisen tai normandianranskalaisen kauppiassuvun hallittavaksi. Nämä kauppiassuvut – Athy, Blake (de Bláca), Bodkin, Browne (de Brún), d'Arcy, Deane, Ffont, Ffrench, Joyce (Seoige), Kirwan, Lynch, Martin, Morris ja Skerrett – tulivat tunnetuiksi Galwayn heimoina, ja kaupunkia kutsutaan vielä tänäkin päivänä Heimojen kaupungiksi (the City of the Tribes, Cathair na dTreibheacha). Heimot joutuivat edelleenkin sotimaan Ó Flaitheartan perhettä vastaan, mutta heimojen alaisuudessa kaupunki kukoisti ja nautti käytännössä melkoisen rajattomasta itsehallinnosta. Tälle kukoistukselle tuli loppu vasta 1600-luvulla, kun heimot menettivät asemansa valittuaan maan sisäisissä levottomuuksissa väärän osapuolen. Nykyiseen Galwayhin kuuluu alkuperäisen kaupungin lisäksi Claddagh (An Cladach), joka oli alkujaan iirinkielinen kalastajakylä Corrib-joen vastarannalla, mutta on nyt muuttunut tavalliseksi lähiöksi. Historiallisen arkkitehtuurinsa ja runsaan musiikki-, huvi- ja teatteritarjontansa ansiosta Galway on suosittu matkailukohde. Myös iirin kielen asiaa ajetaan kaupungissa innokkaasti.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="tr">Galway İrlanda'nın Connacht ilinin başlıca kenti ve Galway ilçesinin merkezidir. Şehir İrlanda'nın batı kıyısında bulunmaktadır. İrlanda dilinde şehir Cathair na Gaillimhe ("Galway şehri") diye de anılmaktadır. Şehir adını Dún Bhun na Gaillimhe adı verilen ilk yerleşim bölgesinin batı sınırını oluşturan Gaillimh ırmağından ya da ırmağın ağzındaki kaleden almıştır. Gaillimh kelimesi "taşlık yer" anlamına gelir.</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Rory_Ginty">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/City_of_Galway">
+		<dbpprop:redirect xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Scoil_Chaitriona">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Se%C3%A1nie_Duggan">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Niall_Corcoran">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Cian_McBrien_%28footballer%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="no">Galway (City of Galway, Gailimh) er administrasjonsbyen i Galway i Republikken Irland. Den er også utskilt fra grevskapet som et selvstyrt grevskapsdistrikt. Byen er kjent som «stammenes by», fordi den i sin tidligste historie ble bygget opp av fjorten keltiske stammer eller klaner: Athy, Blake, Bodkin, Browne, Darcy, Deane, Font, French, Joyce, Kirwin, Lynch, Martyn, Morris og Skerrett.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdf:type rdf:resource="http://sw.opencyc.org/2008/06/10/concept/Mx4rvViACZwpEbGdrcN5Y29ycA"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Cooke_%28footballer%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Ciar%C3%A1n_Cannon">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Royal_University_of_Ireland">
+		<dbpedia-owl:city xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Maher_%28boxer%29">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#" rdf:resource="http://umbel.org/umbel/ne/wikipedia/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="pt">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/The_Beauty_Queen_of_Leenane">
+		<dbpprop:place xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/D%C3%A1ith%C3%AD_%C3%93_S%C3%A9">
+		<dbpprop:residence xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Royal_University_of_Ireland">
+		<n0pred:city xmlns:n0pred="http://dbpedia.org/ontology/EducationalInstitution/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Stockwell">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Women%27s_international_rugby_union/wrugbybox137">
+		<dbpprop:stadium xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:mapImage xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">Ireland map County Galway.png</dbpprop:mapImage>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_O%27Connor">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Dublin_Community_Television">
+		<n0pred:broadcastArea xmlns:n0pred="http://dbpedia.org/ontology/Broadcast/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Michael_John_Flaherty">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/The_Bish">
+		<dbpedia-owl:location xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/St_Ignatius_College_%28Galway%29">
+		<dbpedia-owl:location xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:label xml:lang="no">Galway</rdfs:label>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Kitt">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/KBC_Bank_Ireland">
+		<n0pred:location xmlns:n0pred="http://dbpedia.org/ontology/Organisation/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Doherty_%28Gaelic_footballer%29">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdf:type rdf:resource="http://dbpedia.org/class/yago/Site108651247"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Seamus_Leydon">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Celtrak">
+		<dbpedia-owl:location xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/KBC_Bank_Ireland">
+		<dbpedia-owl:location xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<skos:subject xmlns:skos="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://dbpedia.org/resource/Category:Cities_in_the_Republic_of_Ireland"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Canada_women%27s_national_rugby_union_team/wrugbybox39">
+		<dbpprop:stadium xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Dublin_Community_Television">
+		<dbpedia-owl:broadcastArea xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Padraig_O%27Laoi">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:province xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Connacht"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Flirt_FM">
+		<dbpedia-owl:area xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Royal_University_of_Ireland">
+		<dbpprop:city xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Salmon">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Flirt_FM">
+		<n0pred:area xmlns:n0pred="http://dbpedia.org/ontology/RadioStation/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Tony_%C3%93g_Regan">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Keane_%28soccer_player%29">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Clancy">
+		<dbpprop:counties xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:reference xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://www.galwaychamber.com/"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:wikiPageUsesTemplate xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Template:climate_chart"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Cyril_Farrell">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_F._Finerty">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Ger_Hanley_%28footballer%29">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#" rdf:resource="http://sw.opencyc.org/2008/06/10/concept/Mx4rvybecZwpEbGdrcN5Y29ycA"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<rdfs:comment xml:lang="cs">Galway je město v západoirské provincii Connacht a správní středisko stejnojmenného hrabství. Město se rozkládá na západním pobřeží Irska. V irštině je označováno také jako Cathair na Gaillimhe („Město Galway“).</rdfs:comment>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Mattie_McDonagh">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jason_Molloy">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Proinsias_Mac_Aonghusa">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<geo:lat xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.27289962768555</geo:lat>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Fahey">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="pt">Galway é uma cidade da Irlanda e é capital do condado de mesmo nome. É a quarta maior cidade do país e a maior da província de Connacht. Conta com uma população de 65.832 habitantes. Desde 1985 a cidade possui estatuto de condado administrativo (county-boroughs).</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Connaught_Rangers">
+		<dbpedia-owl:garrison xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Galway">
+		<n0pred:place xmlns:n0pred="http://dbpedia.org/ontology/MilitaryConflict/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:reference xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://www.galwaycity.ie/"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Connaught_Rangers">
+		<n0pred:garrison xmlns:n0pred="http://dbpedia.org/ontology/MilitaryUnit/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#" rdf:resource="http://sws.geonames.org/2964180/"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/St_Mary%27s_College%2C_Galway">
+		<n0pred:location xmlns:n0pred="http://dbpedia.org/ontology/Organisation/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Mattie_McDonagh">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/David_Forde_%28soccer%29">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Donnellan_%28Gaelic_footballer%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Sinnott_%28footballer%29">
+		<dbpprop:cityofbirth xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Vinny_Faherty">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Galway">
+		<dbpedia-owl:place xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Stockwell">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:first xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">yes</dbpprop:first>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway%2C_Ireland">
+		<dbpprop:redirect xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/St_Ignatius_College_%28Galway%29">
+		<n0pred:location xmlns:n0pred="http://dbpedia.org/ontology/Organisation/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/John_Russell_%28footballer%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Aoife_Mulholland">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:abstract xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="hu">Galway város Írországban, Connacht tartományban, Galway megye közigazgatási központja.</dbpprop:abstract>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Proinsias_Mac_Aonghusa">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:crestImage xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">Galway crest.png</dbpprop:crestImage>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:pinCoords xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">left: 97px; top: 54px</dbpprop:pinCoords>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_United_F.C.">
+		<dbpedia-owl:ground xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Martin_O%27Doherty">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Niall_Corcoran">
+		<dbpedia-owl:birthPlace xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Jarlath_Fallon">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Queen%27s_University_of_Ireland">
+		<n0pred:city xmlns:n0pred="http://dbpedia.org/ontology/EducationalInstitution/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Galway">
+		<dbpprop:place xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Maher_%28boxer%29">
+		<n0pred:birthPlace xmlns:n0pred="http://dbpedia.org/ontology/Person/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Taibhdhearc_na_Gaillimhe">
+		<dbpprop:city xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Knockdoe">
+		<dbpedia-owl:place xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Christy_O%27Connor_Jnr">
+		<dbpprop:birthPlace xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Knockdoe">
+		<n0pred:place xmlns:n0pred="http://dbpedia.org/ontology/MilitaryConflict/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway_railway_station/rail_line1">
+		<dbpprop:route xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Queen%27s_University_of_Ireland">
+		<dbpedia-owl:city xmlns:dbpedia-owl="http://dbpedia.org/ontology/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Fahey">
+		<dbpprop:counties xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Galway">
+		<dbpprop:aboutProperty xmlns:dbpprop="http://dbpedia.org/property/" xml:lang="en">the city of Galway in Ireland</dbpprop:aboutProperty>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://dbpedia.org/resource/Smyths">
+		<dbpprop:location xmlns:dbpprop="http://dbpedia.org/property/" rdf:resource="http://dbpedia.org/resource/Galway"/>
+	</rdf:Description>
+</rdf:RDF>
