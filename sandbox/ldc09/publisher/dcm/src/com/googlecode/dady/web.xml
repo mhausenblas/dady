@@ -1,0 +1,44 @@
+ <!DOCTYPE web-app PUBLIC
+  '-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN'
+  'http://java.sun.com/dtd/web-app_2_3.dtd'>
+<web-app>
+
+
+  <listener>
+    <listener-class>com.googlecode.dady.Initialiser</listener-class>
+  </listener>
+	 <servlet>
+           <servlet-name>register</servlet-name>
+            <servlet-class>
+            com.googlecode.dady.MonitorService
+            </servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+     <servlet>
+           <servlet-name>list</servlet-name>
+            <servlet-class>
+            com.googlecode.dady.ListService
+            </servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet>
+           <servlet-name>changes</servlet-name>
+            <servlet-class>
+            com.googlecode.dady.ChangesService
+            </servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+           <servlet-name>register</servlet-name>
+        <url-pattern>/register</url-pattern>
+    </servlet-mapping>
+    
+    <servlet-mapping>
+           <servlet-name>changes</servlet-name>
+        <url-pattern>/changes</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+           <servlet-name>list</servlet-name>
+        <url-pattern>/list</url-pattern>
+    </servlet-mapping>
+</web-app>

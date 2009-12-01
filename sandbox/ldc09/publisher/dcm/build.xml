@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<project name="ui" default="dist">
+  <target name="prepare">
+    <tstamp />
+    <mkdir dir="bin"/>
+    <mkdir dir="dist"/>
+  </target>
+
+  <target name="clean">
+    <delete dir="bin"/>
+    <delete>
+      <fileset dir="dist">
+	<include name="*"/>
+      </fileset>
+    </delete>
+  </target>
+  
+  <path id="classpath">
+    <pathelement location="bin"/>
+    
+    <fileset dir="lib">
+      <include name="*.jar"/>
+    </fileset>
+  </path>
+  
+  <target name="dist" depends="prepare">
+   <mkdir dir="bin"/>
+   <mkdir dir="dist"/>   
+  <javac destdir="bin"
+	   srcdir="src"
+	   debug="yes">
+      <classpath refid="classpath"/>
+    </javac>
+    
+    <jar destfile="dist/dcm.jar">
+      <zipfileset dir="bin" prefix="" />
+      <manifest>
+	<attribute name="Main-Class" value="com.ontologycentral.ui.Main" />
+      </manifest>
+    </jar>
+    
+    <war destfile="dist/dcm.war"
+	 webxml="src/com/googlecode/dady/web.xml">
+      <classes dir="bin"/>
+      <lib file="lib/httpcore-4.0.1.jar"/>
+<lib file="lib/httpcore-nio-4.0.1.jar"/>
+<lib file="lib/httpclient-4.0.jar"/>
+<lib file="lib/httpmime-4.0.jar"/>
+<lib file="lib/ldspider.0.1-dev.jar"/>
+<lib file="lib/nxparser.jar"/>
+<lib file="lib/quartz-1.6.6.jar"/>
+<lib file="lib/rome-1.0.jar"/>
+<lib file="lib/jdom.jar"/>
+    </war>
+  </target>
+
+</project>
