@@ -11,9 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import com.sun.syndication.feed.atom.Feed;
-import com.sun.syndication.feed.synd.SyndFeed;
 import com.sun.syndication.io.FeedException;
-import com.sun.syndication.io.SyndFeedOutput;
 import com.sun.syndication.io.WireFeedOutput;
 
 public class ChangesService extends HttpServlet{
@@ -41,14 +39,15 @@ public class ChangesService extends HttpServlet{
 	String idString = req.getParameter("id");
 	Long id = Long.parseLong(idString);
 	Feed feed = _changesMap.get(id);
-	log("Got feed for "+id+" "+ feed);
+	if(feed == null){
+	    resp.sendError(HttpServletResponse.SC_INTERNAL_SERVER_ERROR,"Could not found a feed for id "+id);
+	    return;
+	}
 	try{
-//	    feed.setFeedType(_defaultFeedType);
 	    resp.setContentType(MIME_TYPE);
 	    
 	    WireFeedOutput output = new WireFeedOutput();
 	    output.output(feed,resp.getWriter());
-	    
 	}
 	catch (FeedException ex) {
 	    String msg = COULD_NOT_GENERATE_FEED_ERROR;

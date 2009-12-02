@@ -22,6 +22,7 @@ public class Initialiser implements ServletContextListener{
     public static final String SCHEDULER = "scheduler";
     public static final String CHANGES = "changes";
     public static final String CONTENT = "content";
+    public static final String REGISTERED = "regObjects";
     public static File configFilePath;
   
     
@@ -52,6 +53,8 @@ public class Initialiser implements ServletContextListener{
 //	HashMap<URI, Set<Node[]>> contentMap = new HashMap<URI, Set<Node[]>>();
 	
 	arg0.getServletContext().setAttribute(CHANGES, changesMap);
+	HashMap<URI,RegisterObject> registeredMap = new HashMap<URI, RegisterObject>();
+	arg0.getServletContext().setAttribute(REGISTERED, registeredMap);
 	configFilePath = new File(arg0.getServletContext().getRealPath("/"));
 	System.out.println(configFilePath);
 	

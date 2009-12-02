@@ -24,7 +24,7 @@ import com.sun.syndication.feed.atom.Feed;
 import com.sun.syndication.feed.atom.Link;
 import com.sun.syndication.feed.atom.Person;
 
-public class MonitorService extends HttpServlet{
+public class UnregisterService extends HttpServlet{
 
     /**
      * 
@@ -46,7 +46,6 @@ public class MonitorService extends HttpServlet{
 
     public void init() throws ServletException {
 	_sched = (Scheduler) getServletContext().getAttribute(Initialiser.SCHEDULER);
-	_changesMap = (HashMap<Long, Feed>) getServletContext().getAttribute(Initialiser.CHANGES);
 	_registeredMap = (HashMap<URI, RegisterObject>) getServletContext().getAttribute(Initialiser.REGISTERED);
     }
     @Override
@@ -63,70 +62,19 @@ public class MonitorService extends HttpServlet{
 	    resp.sendError(HttpServletResponse.SC_INTERNAL_SERVER_ERROR, e.getMessage());
 	}
 
-	if(pollInterval==null || pollInterval.length()==0)
-	    resp.sendError(HttpServletResponse.SC_INTERNAL_SERVER_ERROR, "missing parameter \"update\"");
-
-	int updateInterval = 0;
-	try{
-	    updateInterval = Integer.parseInt(pollInterval);
-	    log("updateInterval: "+updateInterval);
-	}catch(NumberFormatException e){
-	    resp.sendError(HttpServletResponse.SC_INTERNAL_SERVER_ERROR, "Cannot parse the value of \"update=\""+pollInterval+" not a number.");
-	}
-
-	//create id
-	Long id = System.currentTimeMillis();
-
-	//generate Quartz job
-	JobDetail jobDetail = new JobDetail(id.toString(),
-		null,
-		ChangeDetector.class);
-	jobDetail.getJobDataMap().put("uri",uri);
-	jobDetail.getJobDataMap().put("content",new HashSet<Nodes>());
-	
-	URL baseURI = new URL(req.getScheme(),
-		req.getServerName(),
-                req.getContextPath());
-	log(">>>>> "+baseURI);
-	jobDetail.getJobDataMap().put("baseURI",baseURI);
-	
-	//Feed generation
-	
-	Feed feed = new Feed();
-	feed.setId("urn:dcm:dady:"+id);
-	feed.setFeedType("atom_1.0");
-	feed.setTitle("Dataset change feed for "+uri);
-	Link link = new Link();
-	if(uri!=null)
-	    link.setHref(uri.toASCIIString());
-	feed.setOtherLinks(Collections.singletonList(link));
-	Person author = new Person();
-	author.setName("dady DCM");
-	author.setUri("http://code.google.com/p/dady/");
-	feed.setAuthors(Collections.singletonList(author));
-	
-	Content c = new Content();
-	c.setValue("Notification feed for changes in "+uri+".\nMonitor intervall is "+pollInterval+" seconds.");
-	feed.setSubtitle(c);
-	
-	jobDetail.getJobDataMap().put("changes",feed);
-	jobDetail.getJobDataMap().put("id",id);
-	_changesMap.put(id,feed);
-	
-	Trigger trigger = TriggerUtils.makeSecondlyTrigger(updateInterval);
-	trigger.setName(id.toString());
-	if(uri!=null)
-	    trigger.setGroup(uri.toASCIIString());
 	try {
-	    _sched.scheduleJob(jobDetail, trigger);
-	    _registeredMap.put(uri, new RegisterObject(jobDetail, trigger));
+	    RegisterObject regObj = _registeredMap.remove(uri);
+	    if(regObj != null && uri!=null){
+		_sched.unscheduleJob(regObj.getTrigger().getName(), uri.toASCIIString());
+		_sched.deleteJob(regObj.getJob().getName(), uri.toASCIIString());
+	    }
 	    
 	} catch (SchedulerException e) {
 	    resp.sendError(HttpServletResponse.SC_INTERNAL_SERVER_ERROR, e.getMessage());
 	}
 	
 	resp.setContentType("text/plain");
-	resp.getWriter().append(baseURI+"/changes?id="+id);
+	resp.getWriter().append("Successful delete change detection for "+uri);
     }
     
     @Override

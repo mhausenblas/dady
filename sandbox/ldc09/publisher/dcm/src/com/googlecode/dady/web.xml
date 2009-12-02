@@ -14,6 +14,13 @@
             </servlet-class>
         <load-on-startup>1</load-on-startup>
     </servlet>
+    <servlet>
+           <servlet-name>unregister</servlet-name>
+            <servlet-class>
+            com.googlecode.dady.UnregisterService
+            </servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
      <servlet>
            <servlet-name>list</servlet-name>
             <servlet-class>
@@ -32,7 +39,10 @@
            <servlet-name>register</servlet-name>
         <url-pattern>/register</url-pattern>
     </servlet-mapping>
-    
+    <servlet-mapping>
+           <servlet-name>unregister</servlet-name>
+        <url-pattern>/unregister</url-pattern>
+    </servlet-mapping>
     <servlet-mapping>
            <servlet-name>changes</servlet-name>
         <url-pattern>/changes</url-pattern>
